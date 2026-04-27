@@ -1,7 +1,6 @@
 /* Estilos para Ejercicio 3 */
 .contenedor {
     display: flex;
-}
-.caja {
-    flex: 1;
+    align-items: center;
+    justify-content: center;
 }

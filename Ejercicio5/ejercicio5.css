@@ -1,7 +1,5 @@
 /* Estilos para Ejercicio 5 */
 .contenedor {
     display: flex;
-}
-.caja {
-    flex: 1;
+    flex-direction: column;
 }

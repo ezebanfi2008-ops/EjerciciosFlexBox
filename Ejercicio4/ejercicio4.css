@@ -1,7 +1,9 @@
 /* Estilos para Ejercicio 4 */
 .contenedor {
     display: flex;
-}
-.caja {
-    flex: 1;
+    justify-content :center;
+    align-items: center;
+    height: 400px;
+    width: 400px;
+
 }

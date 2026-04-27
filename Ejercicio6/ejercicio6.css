@@ -1,7 +1,5 @@
 /* Estilos para Ejercicio 6 */
 .contenedor {
     display: flex;
-}
-.caja {
-    flex: 1;
+    justify-content: space-evenly;
 }
