@@ -1,0 +1,7 @@
+/* Estilos para Ejercicio 4 */
+.contenedor {
+    display: flex;
+}
+.caja {
+    flex: 1;
+}
