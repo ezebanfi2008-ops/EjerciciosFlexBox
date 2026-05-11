@@ -1,0 +1,6 @@
+/* Estilos para Ejercicio 12 */
+.contenedor {
+    display: flex;
+    gap: 20px;
+}
+

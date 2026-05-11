@@ -1,0 +1,18 @@
+.lista-terjetas {
+    display: flex;
+    align-items: stretch;
+    gap: 35px;
+}
+
+.tarjeta {
+    display: flex;
+    flex-direction: column;
+    background-color: blue;
+    text-align: center;
+}
+
+.tarjeta button {
+    margin-top: auto;
+    background-color: red;
+
+}

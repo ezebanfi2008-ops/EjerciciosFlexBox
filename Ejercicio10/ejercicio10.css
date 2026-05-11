@@ -1,0 +1,10 @@
+/* Estilos para Ejercicio 10 */
+.contenedor {
+    display: flex;
+}
+.cajaprimero {
+ order: 2;
+}
+.cajatercero {
+    order: -1;
+}

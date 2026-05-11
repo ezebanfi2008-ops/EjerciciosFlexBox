@@ -1,0 +1,28 @@
+/* Estilos para Ejercicio 20 */
+.contenedor {
+    display: flex;
+    flex-direction: column;
+}
+.caja {
+    flex: 1;
+}
+.msgPropio {
+    align-self: flex-end;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+    text-align: right;
+}
+
+.msgAjeno {
+    align-self: flex-start;
+    background-color: yellow;
+    color: black;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+

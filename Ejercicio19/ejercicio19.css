@@ -1,0 +1,11 @@
+.campo {
+    flex-direction: row;
+    width: 120px;
+}
+
+.label {
+    flex: 0 0 120px;
+}
+.input {
+    flex: 1;
+}

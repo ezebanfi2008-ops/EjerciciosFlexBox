@@ -1,0 +1,23 @@
+.pagina {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+.cuerpo {
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+}
+
+.asider.der, aside.izq {
+    width: 200px;
+    flex-shrink: 0;
+}
+
+main {
+    flex: 1;
+}
+
+footer {
+    margin-top: auto;
+}

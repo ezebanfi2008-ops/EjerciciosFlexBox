@@ -1,0 +1,25 @@
+/* Estilos para Ejercicio 11 */
+.contenedor {
+    display: flex;
+    width: 200px;
+    flex-direction: column;
+}
+.cajaArriba  {
+    background-color: red;
+    width: 100px;
+    height: 50px;
+    align-self: first baseline;
+}
+
+.cajaMedio{
+    background-color: green;
+    width: 100px;
+    height: 50px;
+    align-self: center;
+}
+.cajaAbajo {
+    background-color: blue;
+    width: 100px;
+    height: 50px;
+    align-self: last baseline;
+}

@@ -1,0 +1,16 @@
+/* Estilos para Ejercicio 8 */
+.contenedor {
+    display: flex;
+    width: 600px;
+    height: 400px;
+
+}
+.cajaA{
+    flex-grow: 1;
+}
+.cajaB{
+    flex-grow: 2;
+}
+.cajaC{
+    flex-grow: 1;
+}

@@ -1,0 +1,15 @@
+.layout{
+    display: flex;
+    width: 100px;
+    height: 500px;
+}
+
+.izquierda {
+    flex: 0 0 200px
+}
+.centro {
+    flex: 1;
+}
+.derecha {
+    flex: 0 0 150px;
+ }

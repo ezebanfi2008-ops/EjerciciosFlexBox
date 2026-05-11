@@ -1,0 +1,16 @@
+/* Estilos para Ejercicio 13 */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 24px;
+    height: 52px;
+}
+
+.enclaces {
+    display: flex;
+    gap: 24px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
